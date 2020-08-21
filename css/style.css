@@ -25,3 +25,18 @@ label input[type=checkbox]:checked + span{
   position: absolute;
   background-repeat: repeat-x;
 } */
+
+#line {
+  z-index: -1;
+}
+
+/* #Fork {
+  /* display: block;
+  float: center; */
+} */
+
+footer p {
+  text-align: center;
+  font-size: smaller;
+  
+}
