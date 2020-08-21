@@ -1,0 +1,27 @@
+#headerIcons {
+  float: right;
+}
+
+#headerIcons2 {
+  float: right;
+  margin-left: 10px;
+}
+
+ hr { 
+  border-top: hotpink 10px dashed;
+  /* background-color: greenyellow; */
+  /* size: 10px; */
+} 
+
+ul {
+  list-style-type: none;
+}
+
+label input[type=checkbox]:checked + span{
+  text-decoration: line-through;
+}
+
+/* #pgbrk {
+  position: absolute;
+  background-repeat: repeat-x;
+} */
